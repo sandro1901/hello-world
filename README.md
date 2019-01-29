@@ -1,4 +1,5 @@
 # hello-world
-My first repository on GitHub
+My first repository off GitHub
 I'm sitting here doing edits in the file readme.md, that is in a new branch for this.
-Feels good :-)
+Feels go :-)
+jetzt etwas gelöscht und geändert :-)
